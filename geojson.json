@@ -8,9 +8,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "name": "Coors Field",
-                "amenity": "Baseball Stadium",
-                "popupContent": "This is where the Rockies play!"
+                "name": "Meeting Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -23,7 +21,8 @@
             "feature_type": "geofence",
             "properties": {
                 "category": "geofence",
-                "level_ids": ["0"]
+                "level_ids": ["0"],
+                "name": "Dev Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36,7 +35,8 @@
             "feature_type": "geofence",
             "properties": {
                 "category": "geofence",
-                "level_ids": ["0"]
+                "level_ids": ["0"],
+                "name": "Sales Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -49,7 +49,8 @@
             "feature_type": "geofence",
             "properties": {
                 "category": "geofence",
-                "level_ids": ["0"]
+                "level_ids": ["0"],
+                "name": "Hardware Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
