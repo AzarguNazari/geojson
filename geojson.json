@@ -8,7 +8,8 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "#004444"
+                "color": "#004444",
+                "popupContent": "Meeting Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22,7 +23,8 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "#255356"
+                "color": "#255356",
+                "popupContent": "Dev Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36,7 +38,8 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "#562367"
+                "color": "#562367",
+                "popupContent": "Sales Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -50,7 +53,8 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "#a53455"
+                "color": "#a53455",
+                "popupContent": "Hardware Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
