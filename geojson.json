@@ -7,7 +7,12 @@
             "feature_type": "geofence",
             "properties": {
                 "category": "geofence",
-                "level_ids": ["0"]
+                "level_ids": ["0"],
+                 "name":"TRON-02",
+                "serial":"TRON002",
+                "bearing":0,
+                "color":"green",
+                "size":15,
             },
             "geometry": {
                 "type": "MultiPolygon",
