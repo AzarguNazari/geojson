@@ -8,7 +8,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "name": "Meeting Room"
+                "name": "Meeting-Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22,7 +22,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "name": "Dev Room"
+                "name": "Dev-Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36,7 +36,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "name": "Sales Room"
+                "name": "Sales-Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -50,7 +50,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "name": "Hardware Room"
+                "name": "Hardware-Room"
             },
             "geometry": {
                 "type": "MultiPolygon",
