@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Meeting-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [[[[13.5, 0], [9, 0], [9, 5.5], [13.5, 5.5], [13.5, 0]]]]
+            }
+        },
+        {
+            "id": "Sales-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [[[[16, 5.5], [9, 5.5], [9, 11], [16, 11], [16, 5.5]]]]
+            }
+        },
+        {
+            "id": "Mobile-Dev-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [[[[0, 11], [9, 11], [9, 5.5], [0, 5.5], [0, 11], [0, 11]]]]
+            }
+        },
+        {
+            "id": "Hardware-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"]
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [[[[0, 5.5], [9, 5.5], [9, 0], [0, 0], [0, 5.5], [0, 5.5]]]
+                ]
+            }
+        }
+    ]
+}
