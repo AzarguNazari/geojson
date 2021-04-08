@@ -8,11 +8,9 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                 "name":"TRON-02",
-                "serial":"TRON002",
-                "bearing":0,
-                "color":"green",
-                "size":15
+                "name": "Coors Field",
+                "amenity": "Baseball Stadium",
+                "popupContent": "This is where the Rockies play!"
             },
             "geometry": {
                 "type": "MultiPolygon",
