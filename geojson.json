@@ -8,7 +8,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "red"
+                "color": "#004444"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22,7 +22,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "green"
+                "color": "#255356"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -36,7 +36,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "blue"
+                "color": "#562367"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -50,7 +50,7 @@
             "properties": {
                 "category": "geofence",
                 "level_ids": ["0"],
-                "color": "orange"
+                "color": "#a53455"
             },
             "geometry": {
                 "type": "MultiPolygon",
