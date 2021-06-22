@@ -98,22 +98,6 @@
       }
     },
     {
-      "id": "c84b32fee624",
-      "type": "Feature",
-      "properties": {
-        "level_id": "Abeeway-Test",
-        "favendo:tracker": true,
-        "favendo:tracker:additional_level_ids": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          5.5
-        ]
-      }
-    },
-    {
       "id": "eb2eb62398de",
       "type": "Feature",
       "properties": {
@@ -141,22 +125,6 @@
         "type": "Point",
         "coordinates": [
           6,
-          0
-        ]
-      }
-    },
-    {
-      "id": "ed7b0ca09f26",
-      "type": "Feature",
-      "properties": {
-        "level_id": "Abeeway-Test",
-        "favendo:tracker": true,
-        "favendo:tracker:additional_level_ids": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
           0
         ]
       }
