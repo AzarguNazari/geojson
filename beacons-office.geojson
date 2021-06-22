@@ -12,8 +12,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16,
-          11
+          10.870333313941954,
+          49.90287561432352
         ]
       }
     },
@@ -28,8 +28,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5,
-          5.5
+          10.870372876524925,
+              49.902857474822156
         ]
       }
     },
@@ -44,8 +44,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6,
-          5.5
+         10.870437920093536,
+              49.90289936842211
         ]
       }
     },
@@ -60,8 +60,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6,
-          11
+         10.870395004749298,
+         49.902920963047066
         ]
       }
     },
@@ -76,8 +76,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5,
-          0
+           10.870440602302551,
+              49.90289980031472
         ]
       }
     },
@@ -92,8 +92,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16,
-          5.5
+          10.870437920093536,
+              49.90289980031472
+        ]
+      }
+    },
+    {
+      "id": "c84b32fee624",
+      "type": "Feature",
+      "properties": {
+        "level_id": "Abeeway-Test",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        10.870476141571999,
+              49.90287863757308
+        ]
+      }
+    },
+    {
+      "id": "eb2eb62398de",
+      "type": "Feature",
+      "properties": {
+        "level_id": "Abeeway-Test",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         10.87050162255764,
+              49.902895913281235
         ]
       }
     },
@@ -108,8 +140,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6,
-          0
+          10.870466083288193,
+              49.90291750790772
+        ]
+      }
+    },
+    {
+      "id": "ed7b0ca09f26",
+      "type": "Feature",
+      "properties": {
+        "level_id": "Abeeway-Test",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         10.87043859064579,
+              49.90290066409989
         ]
       }
     }
