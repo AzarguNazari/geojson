@@ -1,0 +1,159 @@
+
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+       "id": "Mobile-Dev-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"],
+                "color": "#562367",
+                "popupContent": "Sales Room"
+            },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.870333313941954,
+              49.90287561432352
+            ],
+            [
+              10.870372876524925,
+              49.902857474822156
+            ],
+            [
+              10.870437920093536,
+              49.90289936842211
+            ],
+            [
+              10.870395004749298,
+              49.902920963047066
+            ],
+            [
+              10.870333313941954,
+              49.90287561432352
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "Sales-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"],
+                "color": "#004444",
+                "popupContent": "Meeting Room"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.870395675301552,
+              49.90292139493945
+            ],
+            [
+              10.870440602302551,
+              49.90289980031472
+            ],
+            [
+              10.870480835437775,
+              49.90292657764796
+            ],
+            [
+              10.870434567332268,
+              49.902951195505736
+            ],
+            [
+              10.870395675301552,
+              49.90292139493945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "Hardware-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"],
+                "color": "#a53455",
+                "popupContent": "Hardware Room"
+            },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.870374217629433,
+              49.90285704292919
+            ],
+            [
+              10.870412439107895,
+              49.90283976720712
+            ],
+            [
+              10.870476141571999,
+              49.90287863757308
+            ],
+            [
+              10.870437920093536,
+              49.90289980031472
+            ],
+            [
+              10.870374217629433,
+              49.90285704292919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+       "id": "Meeting-Room",
+            "type": "Feature",
+            "feature_type": "geofence",
+            "properties": {
+                "category": "geofence",
+                "level_ids": ["0"],
+                "color": "#255356",
+                "popupContent": "Dev Room"
+            },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.87043859064579,
+              49.90290066409989
+            ],
+            [
+              10.870476141571999,
+              49.90287950135863
+            ],
+            [
+              10.87050162255764,
+              49.902895913281235
+            ],
+            [
+              10.870466083288193,
+              49.90291750790772
+            ],
+            [
+              10.87043859064579,
+              49.90290066409989
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
