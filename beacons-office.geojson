@@ -98,22 +98,6 @@
       }
     },
     {
-      "id": "eb2eb62398de",
-      "type": "Feature",
-      "properties": {
-        "level_id": "Abeeway-Test",
-        "favendo:tracker": true,
-        "favendo:tracker:additional_level_ids": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          11
-        ]
-      }
-    },
-    {
       "id": "f4fbca5692b6",
       "type": "Feature",
       "properties": {
