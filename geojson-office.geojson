@@ -50,7 +50,9 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ]
+        ],
+                "color": "#562367",
+        "popupContent": "Mobile Dev Room"
       },
       "feature_type": "geofence",
       "geometry": {
@@ -92,7 +94,7 @@
           "0"
         ],
                         "color": "#255356",
-                "popupContent": "Dev Room"
+                "popupContent": "Backend Dev Room"
       },
       "feature_type": "geofence",
       "geometry": {
@@ -132,7 +134,9 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ]
+        ],
+                "color": "#562367",
+        "popupContent": "Management Room"
       },
       "feature_type": "geofence",
       "geometry": {
@@ -172,7 +176,9 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ]
+        ],
+                "color": "#562367",
+        "popupContent": "Kitchen"
       },
       "feature_type": "geofence",
       "geometry": {
@@ -212,7 +218,9 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ]
+        ],
+                "color": "#562367",
+        "popupContent": "Rest Room"
       },
       "feature_type": "geofence",
       "geometry": {
@@ -330,7 +338,9 @@
       "type": "Feature",
       "properties": {
         "category": "geofence",
-        "level_ids": ["0"]
+        "level_ids": ["0"],
+                "color": "#562367",
+        "popupContent": "University Yard"
       },
       "geometry": {
         "type": "MultiPolygon",
