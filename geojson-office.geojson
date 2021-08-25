@@ -52,7 +52,7 @@
           "0"
         ],
                 "color": "#562367",
-        "popupContent": "Mobile Dev Room"
+        "popupContent": "Mobile Room"
       },
       "feature_type": "geofence",
       "geometry": {
@@ -94,7 +94,7 @@
           "0"
         ],
                         "color": "#255356",
-                "popupContent": "Backend Dev Room"
+                "popupContent": "Backend Room"
       },
       "feature_type": "geofence",
       "geometry": {
