@@ -9,9 +9,7 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ],
-        "color": "#562367",
-        "popupContent": "Sales Room"
+        ]
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50,9 +48,7 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ],
-                "color": "#562367",
-        "popupContent": "Mobile Room"
+        ]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -92,9 +88,7 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ],
-                        "color": "#255356",
-                "popupContent": "Backend Room"
+        ]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -134,9 +128,7 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ],
-                "color": "#562367",
-        "popupContent": "Management Room"
+        ]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -176,9 +168,7 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ],
-                "color": "#562367",
-        "popupContent": "Kitchen"
+        ]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -218,9 +208,7 @@
         "category": "geofence",
         "level_ids": [
           "0"
-        ],
-                "color": "#562367",
-        "popupContent": "Rest Room"
+        ]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -258,9 +246,7 @@
       "type": "Feature",
       "properties": {
         "category": "geofence",
-        "level_ids": ["0"],
-                        "color": "#a53455",
-                "popupContent": "Hardware Room"
+        "level_ids": ["0"]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -298,9 +284,7 @@
       "type": "Feature",
       "properties": {
         "category": "geofence",
-        "level_ids": ["0"],
-                        "color": "#004444",
-                "popupContent": "Meeting Room"
+        "level_ids": ["0"]
       },
       "feature_type": "geofence",
       "geometry": {
@@ -338,9 +322,7 @@
       "type": "Feature",
       "properties": {
         "category": "geofence",
-        "level_ids": ["0"],
-                "color": "#562367",
-        "popupContent": "University Yard"
+        "level_ids": ["0"]
       },
       "geometry": {
         "type": "MultiPolygon",
