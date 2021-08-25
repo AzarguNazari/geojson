@@ -393,7 +393,89 @@
           ]
         ]]
       }
+    },
+   {
+      "id": "b827eb0fc54e",
+      "type": "Feature",
+      "properties": {
+        "level_id": "ground-level",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.870444625616074,
+          49.902816444972515
+        ]
+      }
+    },
+    {
+      "id": "b827eb2b5298",
+      "type": "Feature",
+      "properties": {
+        "level_id": "ground-level",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.870492905378342,
+          49.90279269083307
+        ]
+      }
+    },
+    {
+      "id": "b827eb0f6dfe",
+      "type": "Feature",
+      "properties": {
+        "level_id": "ground-level",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.870392993092537,
+          49.902871295395244
+        ]
+      }
+    },
+    {
+      "id": "b827eb83f761",
+      "type": "Feature",
+      "properties": {
+        "level_id": "ground-level",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.87057538330555,
+          49.9028622256446
+        ]
+      }
+    },
+    {
+      "id": "b827eb0f95f4",
+      "type": "Feature",
+      "properties": {
+        "level_id": "ground-level",
+        "favendo:tracker": true,
+        "favendo:tracker:additional_level_ids": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.870411433279514,
+          49.90292679359413
+        ]
+      }
     }
+
+
   ]
 }
 
